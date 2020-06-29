@@ -1,0 +1,15 @@
+title: Hacker theme
+description: Hacker is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-hacker
+linkedin_username: nikoloski
+
+#About
+Author: Daniel Nikoloski
+url:  https://dlni.xyz
+
+plugins:
+  - jekyll-font-awesome-sass
+font-awesome:
+  assets: true
