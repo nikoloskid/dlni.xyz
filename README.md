@@ -3,7 +3,7 @@
 
 > Daniel Nikoloski
 >
-> Based on a jekyll theme  [hacker theme](https://github.com/pages-themes/hacker)
+> Based on a jekyll [hacker theme](https://github.com/pages-themes/hacker)
 
 ## Prerequisite
 
