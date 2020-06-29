@@ -20,4 +20,4 @@ OR
 
 `bundle exec jekyll serve --config _config.yml,_config-dev.yml`
 
-
+Edit front-end in index.html 
